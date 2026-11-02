@@ -4,7 +4,7 @@ Static portfolio site (HTML, CSS, JavaScript). No build step.
 
 ## Files
 - `index.html` : page content (overview, projects, resume, contact)
-- `css/style.css` : all styling. Colors and fonts are at the top in `:root`
+- `style.css` : all styling. Colors and fonts are at the top in `:root`
 - `js/main.js` : scroll animations, sideways projects row, project viewer
 - `js/projects.js` : project text and image lists (edit this to add or change projects)
 - `img/` : your photo, project covers, and `img/gallery/` with all drawings
